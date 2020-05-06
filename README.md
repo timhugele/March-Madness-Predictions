@@ -4,7 +4,7 @@
 
 |Name     |  Github   | 
 |---------|-----------------|
-|[Tim Hugele](https://github.com/timhugele)
+|Tim Hugele|[Github](https://github.com/timhugele)
 
 
 ### Data Source
