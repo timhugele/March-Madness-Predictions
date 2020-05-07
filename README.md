@@ -18,6 +18,7 @@
 
 
 ### Problem Summary
+
 * Using the data from Kaggle I was attempting to create the best performing March Madness Bracket possible. My target audience would be anyone attempting to omptimize their March Madness bracket making strategy, and perhaps win money betting on it.
 
 ### Metrics
